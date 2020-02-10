@@ -1,3 +1,2 @@
 ﻿  main.cpp
-g:\advanced programming\lab1\main.cpp(6): error C2065: 'cout': undeclared identifier
-g:\advanced programming\lab1\main.cpp(6): error C2065: 'endl': undeclared identifier
+  Hello World.vcxproj -> G:\Advanced Programming\Lab1\Debug\Hello World.exe
